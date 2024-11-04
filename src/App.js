@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          INSERT ANYTHING TEXT HERE
+        <p> 
+          INSERT ANYTHING TEXT HERE 
         </p>
         <a
           className="App-link"
